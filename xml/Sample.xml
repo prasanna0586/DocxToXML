@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:p="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../resources/1.0/jats-publishing-xsd-1.0/JATS-journalpublishing1.xsd">
+  <front>
+    <journal-meta>
+      <journal-id/>
+      <issn/>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title/>
+      </title-group>
+      <pub-date>
+        <year/>
+      </pub-date>
+      <fpage/>
+    </article-meta>
+  </front>
+</article>
